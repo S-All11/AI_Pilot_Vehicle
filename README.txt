@@ -22,3 +22,5 @@ Micro: bitを双方に相互接続した回路構成となります
 Raspberry Pi側の値を送信するコード　: raspi_value_send.pyを参照
 Micro:bitで受信した値でモータ回転数制御するコード : makecode_project記載のURLを参照
 Micro:bitで受信した値をローカルの実行環境で確認するだけのコード : microbit_value_receive_test.pyを参照
+
+OK project : https://makecode.microbit.org/_C5UUk5bLjf9W
