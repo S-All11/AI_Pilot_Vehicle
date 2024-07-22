@@ -24,3 +24,5 @@ Micro:bitで受信した値でモータ回転数制御するコード : makecode
 Micro:bitで受信した値をローカルの実行環境で確認するだけのコード : microbit_value_receive_test.pyを参照
 Raspberry Pi側でラジコンのプロポとしての一連の機能が実装済みのコード : UART_Controller.pyを参照
 Micro:bit側でラジコンとして一連のモータ動作が実装されたプロジェクトは次のリンク: https://makecode.microbit.org/_C5UUk5bLjf9W
+
+https://makecode.microbit.org/_5AT4puKLC47H
