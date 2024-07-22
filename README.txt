@@ -26,3 +26,4 @@ Raspberry Pi側でラジコンのプロポとしての一連の機能が実装�
 Micro:bit側でラジコンとして一連のモータ動作が実装されたプロジェクトは次のリンク: https://makecode.microbit.org/_C5UUk5bLjf9W
 
 https://makecode.microbit.org/_5AT4puKLC47H
+https://makecode.microbit.org/_32KKU2i3LD2q
