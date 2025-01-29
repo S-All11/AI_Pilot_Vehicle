@@ -18,14 +18,13 @@ Micro: bitを双方に相互接続した回路構成となります
 ラジコンとしても機能するように市販のゲームパッドを
 操作用のプロポとして接続する機能も実装していきます
 
+![](vehicle.png)
+
 このリポジトリの見方
 Raspberry Pi側の値を送信するコード　: raspi_value_send.pyを参照
 Micro:bitで受信した値でモータ回転数制御するコード : makecode_project記載のURLを参照
 Micro:bitで受信した値をローカルの実行環境で確認するだけのコード : microbit_value_receive_test.pyを参照
 Raspberry Pi側でラジコンのプロポとしての一連の機能が実装済みのコード : UART_Controller.pyを参照
 Micro:bit側でラジコンとして一連のモータ動作が実装されたプロジェクトは次のリンク: https://makecode.microbit.org/_C5UUk5bLjf9W
-
-![](vehicle.png)
-
 https://makecode.microbit.org/_5AT4puKLC47H
 https://makecode.microbit.org/_32KKU2i3LD2q
